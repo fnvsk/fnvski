@@ -1,6 +1,6 @@
-# Hi 👋, I’m fnvsk
+# Hi 👋, I’m fnvsk aka. Mark Chaikauskas
 
-### Full-Stack Developer from Warsaw, Poland 🇵🇱
+### Full-Stack Developer from Warsaw, Poland 
 
 🌱 I focus on building modern web applications using contemporary frontend frameworks and robust backend technologies.  
 I enjoy learning by doing, writing clean and maintainable code, and continuously improving my skills across the full stack.  
@@ -21,21 +21,16 @@ I’m open to collaboration, new challenges, and opportunities to grow as a deve
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.ZstA4kKcBk1lhR01mPEINQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3" alt="nestjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="40" height="40"/>
+  
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-- **UshankaGG** – Personal website built with modern frontend tooling  
-- **best-exchange-rates-bot** – Python bot for monitoring and comparing exchange rates  
-
----
 
 ## 📫 Contact
 
